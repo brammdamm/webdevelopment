@@ -1,0 +1,133 @@
+#!/bin/bash  
+echo "this is a shell script"  
+ls -lah  
+echo "I am done running ls"  
+SOMEVAR='text stuff'  
+echo "$SOMEVAR"
+
+
+Birendra
+Bhaskar
+Divas
+Bhupendra
+Sangita
+Lincoln
+
+Nov -dec : divas
+Dec-jab : bhupen
+Jan-feb: Sangita
+Feb-march: Lincoln
+April -may: Bhaskar 
+May-june: bimal
+June-july: bhupendra
+July-aug: Sangita
+Aug-sep: Lincoln
+Sep-oct: birendra
+Oct- Nov: Bhaskar
+
+
+
+
+
+
+
+Tmobile bill: 371.56 (may 20- jun20)
+
+Bimal:200+19+28.08 = 247.08
+
+Bhaskar:19+29.17 = 48.17
+
+Sangita:19+45.84 +7 = 71.84
+
+
+
+
+birendra
+
+T-Mobile Bill: 388.05 (Oct20-Nov20)
+Plan
+
+
+
+
+
+
+
+
+
+Tmobile bill: 417.54 (Aug20-Sep20)
+Bimal: 28.08+ 19 = 47.08
+Lincoln: 200 
+Bhaskar: 29.17 + 19 = 48.17
+Sangita: 45.84 + 19 + 70.08 -20 
+
+
+
+
+Tmobile (June 20- july20): 364.56
+Bhupendra: 200
+Bimal:19+28.08 = 47.08
+Sangita:19+29.17 = 48.17
+Bhaskar:19+45.84 = 71.84
+
+
+
+T-Mobile Bill: 388.05 (Oct20-Nov20)
+Bhaskar Plan: 200
+Bimal: 28.08 +19 = 47.08
+Sangita: 45.84 + 19 = 64.84
+Bhaskar: 29.17 + 19 +200 = 248.17
+Lincoln: 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T-Mobile Bill: 341.48 (Nov20-Dec20)
+Bimal Plan: 200
+
+Bimal: 200+ 28.08 +19 = 247.08
+
+
+Sangita: = 19
+
+
+Bhaskar: 29.17 + 19 + = 48.17
+
+
+Lincoln: 19
+
